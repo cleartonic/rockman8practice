@@ -50,8 +50,8 @@ For example, from stage select, hold R2 and press Circle to spawn in Wily 4. The
 - 1 (Select + R1): Part 1 Halfway
 - 2 (Select + L2): Part 1 Miniboss
 - 3 (Select + R2): Part 2 Start
-- 4 (Select + L1): Part 2 Halfway
-- 5 (Select + R1): Part 2 Boss
+- 4 (Select + Up + L1): Part 2 Halfway
+- 5 (Select + Up + R1): Part 2 Boss
 
 In order to access part 2 via checkpoint loading, you must finish part 1 to load part 2.  
 
@@ -60,8 +60,8 @@ In order to access part 2 via checkpoint loading, you must finish part 1 to load
 - 1 (Select + R1): Part 1 Sled
 - 2 (Select + L2): Part 2 Start
 - 3 (Select + R2): Part 2 Climb
-- 4 (Select + L1): Part 2 Sled
-- 5 (Select + R1): Part 2 Boss
+- 4 (Select + Up + L1): Part 2 Sled
+- 5 (Select + Up + R1): Part 2 Boss
 
 All Frost Man checkpoints are immediately accessible.
 
@@ -70,9 +70,9 @@ All Frost Man checkpoints are immediately accessible.
 - 1 (Select + R1): Part 1 Post-climb
 - 2 (Select + L2): Part 1 Autoscroller
 - 3 (Select + R2): Part 2 Start
-- 4 (Select + L1): Part 2 Pre-Climb
-- 5 (Select + R1): Part 2 Post-Climb
-- 6 (Select + L2): Part 2 Boss
+- 4 (Select + Up + L1): Part 2 Pre-Climb
+- 5 (Select + Up + R1): Part 2 Post-Climb
+- 6 (Select + Up + L2): Part 2 Boss
 
 In order to access part 2 via checkpoint loading, you must finish part 1 to load part 2.  
 
@@ -81,8 +81,8 @@ In order to access part 2 via checkpoint loading, you must finish part 1 to load
 - 1 (Select + R1): Part 1 Halfway
 - 2 (Select + L2): Part 1 Miniboss
 - 3 (Select + R2): Part 2 Start
-- 4 (Select + L1): Part 2 Halfway
-- 5 (Select + R1): Part 2 Boss
+- 4 (Select + Up + L1): Part 2 Halfway
+- 5 (Select + Up + R1): Part 2 Boss
 
 In order to access part 2 via checkpoint loading, you must finish part 1 to load part 2.  
 
@@ -95,8 +95,8 @@ In order to access part 2 via checkpoint loading, you must finish part 1 to load
 - 1 (Select + R1): Part 1 Maze
 - 2 (Select + L2): Part 1 Tower
 - 3 (Select + R2): Part 2 Start
-- 4 (Select + L1): Part 2 Maze
-- 5 (Select + R1): Part 2 Boss
+- 4 (Select + Up + L1): Part 2 Maze
+- 5 (Select + Up + R1): Part 2 Boss
 
 In order to access part 2 via checkpoint loading, you must finish part 1 to load part 2. Loading checkpoint 2 while in checkpoint 1 area causes weirdness, and same with 4/5. 
 
@@ -105,9 +105,9 @@ In order to access part 2 via checkpoint loading, you must finish part 1 to load
 - 1 (Select + R1): Part 1 Miniboss
 - 2 (Select + L2): Part 2 Start
 - 3 (Select + R2): Part 2 Vertical fall
-- 4 (Select + L1): Part 2 Spike room
-- 5 (Select + R1): Part 2 Final room
-- 6 (Select + L2): Part 2 Boss
+- 4 (Select + Up + L1): Part 2 Spike room
+- 5 (Select + Up + R1): Part 2 Final room
+- 6 (Select + Up + L2): Part 2 Boss
 
 In order to access part 2 via checkpoint loading, you must finish part 1 to load part 2.  
 
@@ -116,8 +116,8 @@ In order to access part 2 via checkpoint loading, you must finish part 1 to load
 - 1 (Select + R1): Part 1 Center Room
 - 2 (Select + L2): Part 1 Miniboss
 - 3 (Select + R2): Part 2 Start
-- 4 (Select + L1): Part 2 Halfway
-- 5 (Select + R1): Part 2 Boss
+- 4 (Select + Up + L1): Part 2 Halfway
+- 5 (Select + Up + R1): Part 2 Boss
 
 In order to access part 2 via checkpoint loading, you must finish part 1 to load part 2.  
 
@@ -126,7 +126,7 @@ In order to access part 2 via checkpoint loading, you must finish part 1 to load
 - 1 (Select + R1): Part 1 Halfway
 - 2 (Select + L2): Part 2 Start
 - 3 (Select + R2): Part 2 Halfway
-- 4 (Select + L1): Part 2 Boss
+- 4 (Select + Up + L1): Part 2 Boss
 
 In order to access part 2 via checkpoint loading, you must finish part 1 to load part 2.  
 

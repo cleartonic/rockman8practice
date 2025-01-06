@@ -63,7 +63,7 @@ In order to access part 2 via checkpoint loading, you must finish part 1 to load
 - 4 (Select + L1): Part 2 Sled
 - 5 (Select + R1): Part 2 Boss
 
-All Frost Man checkpoints are immediately accessible
+All Frost Man checkpoints are immediately accessible.
 
 #### Tengu
 - 0 (Select + L1): Part 1 Start
@@ -166,4 +166,4 @@ Wily 4's refights have some strangeness when leaving a fight with the bosses res
 
 Made by [cleartonic](https://twitch.tv/cleartonic).
 
-Thanks to akiteru answering some questions and for their [Mega Man x4 Practice Hack](https://github.com/AkiteruSDA/MegaManX4Practice), for which this project is largely based on.
+Thanks to akiteru answering some questions and for their [Mega Man X4 Practice Hack](https://github.com/AkiteruSDA/MegaManX4Practice), for which this project is largely based on.

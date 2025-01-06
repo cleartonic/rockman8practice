@@ -148,8 +148,7 @@ In order to access part 2 via checkpoint loading, you must finish part 1 to load
 
 #### Wily 4
 - 0 (Select + L1): Start
-- 1 (Select + R1): Halfway
-- 2 (Select + L2): Boss
+- 1 (Select + R1): Final Boss
 
 ## Known issues:
 Forcing a death during a cutscene will softlock the game. 

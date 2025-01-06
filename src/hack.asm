@@ -122,10 +122,10 @@ ori v0,$zero, 0x0003
 sb v0, 0x27c0(at)
 .endmacro
 
-@inf_hp:
-replace 0x8010742C
-nop
-endreplace @inf_hp
+; @inf_hp:
+; replace 0x8010742C
+; nop
+; endreplace @inf_hp
 
 @inf_lives:
 replace 0x80101098
@@ -537,8 +537,7 @@ lui at, 0x801C
 pop at
 pop t2
 pop t1
-
-    lbu v1, 0x4(s0)
+lbu v1, 0x4(s0)
 nop
 sltiu a2, v1, 10
 j 0x800FFD4C

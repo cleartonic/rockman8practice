@@ -4,6 +4,8 @@
 This speedrunning practice hack is for the Japanese version of Mega Man 8, Rockman 8. Upon starting the game and skipping the intro cutscene, stage select will load. Each stage selected will automatically provide the speedrun loadout (weapons & support items). The Exit functionality is always enabled, or the player can return to stage select by using Select + Cross. Refer to controls for access to all stages, including Wily stages.
 
 # Compilation
+You will need to combine your Rockman 8 local copy with [psx-comBINe](https://github.com/ADBeta/psx-comBINe) into one .bin file.
+
 Download this codebase as a zip and extract to a folder. Place "Rockman 8 - Metal Heroes (Japan).bin" and "Rockman 8 - Metal Heroes (Japan).cue" in the root folder. Run "make2.bat". The output will be placed in `/bin`.
 
 # Controls:
